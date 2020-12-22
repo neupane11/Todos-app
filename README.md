@@ -7,5 +7,5 @@
 
     cd into Vue_todolist and npm install
 
-Then,
+
     npm run serve
